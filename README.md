@@ -26,4 +26,4 @@
 
 <h2> 🤝🏻 Connect with Me:</h2>
 
-- [linkedin]: https://www.linkedin.com/in/mohit-p-61a193171/
+- [linkedin](https://www.linkedin.com/in/mohit-p-61a193171/)
