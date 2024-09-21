@@ -1,54 +1,29 @@
 <h1>Hi, I'm Mohit! </h1>
 
-<h2>👨‍💻 Data Analytics Projects:</h2>
+<h2>👨‍💻 About Me:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- 💡  I’m passionate about data science, with a knack for solving complex problems, uncovering business insights, and staying up to date with emerging technologies.
+- 🎓  I hold a Master's in Business Analytics and Project Management from the University of Connecticut, with a concentration in Data Science.
+- 🌱  I'm always eager to deepen my knowledge in data analytics, business intelligence, data science, and machine learning.
+- 👩‍💻  With almost 5 years of experience as a Senior Systems Engineer - Data Analyst, I’m actively seeking full-time opportunities in Data Analysis, Business Intelligence, or Data Science.
+- ✉️  Feel free to reach out at mohit.mps107@gmail.com if you'd like to connect or discuss opportunities!
 
-<h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+<h2> 🛠 Tech Stack</h2>
 
-<h2> 🤳 Connect with me:</h2>
+- 💻 Python | SQL | R | SAS
+- 🛢  MySQL | MS SQL Server | Oracle SQL | PostgreSQL
+- 🔧  Microsoft Azure | AWS | Git | Tableau | PowerBI | Power Apps | Excel
+- 🌐  HTML | CSS 
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<h2> 📜 Certifications:</h2>
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+- [Microsoft Certified: Power BI Data Analyst Associate](https://www.credly.com/badges/4d168848-b1b3-4014-9ed6-f3bb81113025/public_url)
+- [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/8fa6cbc3-76d0-4b4a-ac79-a73f692f04a9/public_url)
+- [Jira Fundamentals](https://university.atlassian.com/student/award/Guqc8gEt6Gc7WDpJf7BD1VuY)
+- [Six Sigma Principles | Coursera](/account/accomplishments/?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course)
+- [Alteryx Foundational | Micro-credential](https://www.credly.com/badges/a6c05512-1389-4d8a-b54f-71da54c794ee/linked_in_profile)
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> 🤝🏻 Connect with Me:</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [linkedin]: https://www.linkedin.com/in/mohit-p-61a193171/
